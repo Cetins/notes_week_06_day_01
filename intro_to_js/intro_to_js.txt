@@ -1,0 +1,8 @@
+Server side rendering - MVS (diagram created by Jarrod)
+Alternative, making things easier with Js, there's less constraint on the server - second diagram created by Jarrod
+
+ECMAcsript - spec name for Js
+
+Node.js - runtime that lets run Js outside the browser
+terminal: node command
+
